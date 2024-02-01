@@ -4,5 +4,6 @@ use (
 	./greetings
 	./grpc-client-server
 	./simple-server
-	./test1
+	./01-sample-k8s-application
+	./02-sample-k8s-application
 )
