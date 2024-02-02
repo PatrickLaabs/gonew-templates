@@ -1,3 +1,3 @@
 module github.com/PatrickLaabs/gonew-templates/greetings
 
-go 1.21.0
+go 1.21.6
